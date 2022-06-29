@@ -6,3 +6,5 @@ Os : Windows 10
 RAM : 4GB
 Python version 3.0 or latest must be required
 Use Jupyter Notebook (recommended)
+#Dataset Link
+https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
